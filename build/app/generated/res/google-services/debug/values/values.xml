@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">680926968251-21lp7qgnk992ap79qjchlou4shdnpah7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">680926968251</string>
+    <string name="google_api_key" translatable="false">AIzaSyCPIOasyxL2MZm7ny2qFaylsuzLG3Hy6PI</string>
+    <string name="google_app_id" translatable="false">1:680926968251:android:ea7fb05b5eb6088dd2ac9e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCPIOasyxL2MZm7ny2qFaylsuzLG3Hy6PI</string>
+    <string name="google_storage_bucket" translatable="false">skatespotsapp.appspot.com</string>
+    <string name="project_id" translatable="false">skatespotsapp</string>
+</resources>

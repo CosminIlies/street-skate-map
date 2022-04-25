@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680926968251",
+    "project_id": "skatespotsapp",
+    "storage_bucket": "skatespotsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680926968251:android:ea7fb05b5eb6088dd2ac9e",
+        "android_client_info": {
+          "package_name": "com.skate_app.skate_spots_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680926968251-21lp7qgnk992ap79qjchlou4shdnpah7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPIOasyxL2MZm7ny2qFaylsuzLG3Hy6PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680926968251-21lp7qgnk992ap79qjchlou4shdnpah7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
