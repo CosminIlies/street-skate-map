@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
+            "outputFile": "/mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
             "map": [
                 {
                     "source": "/home/cosmin/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/values-pl/values.xml",

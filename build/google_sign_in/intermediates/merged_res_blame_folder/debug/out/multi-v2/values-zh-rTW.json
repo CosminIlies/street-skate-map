@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/google_sign_in/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+            "outputFile": "/mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/google_sign_in/intermediates/res/merged/debug/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
                     "source": "/home/cosmin/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/res/values-zh-rTW/values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "/mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/google_sign_in/intermediates/res/merged/debug/values-zh-rTW/values-zh-rTW.xml",
+            "outputFile": "/mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/google_sign_in/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
                     "source": "/home/cosmin/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/res/values-zh-rTW/values.xml",

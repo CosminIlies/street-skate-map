@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/google_maps_flutter/intermediates/res/merged/debug/values-nb/values-nb.xml",
+            "outputFile": "/mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/google_maps_flutter/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml",
             "map": [
                 {
                     "source": "/home/cosmin/.gradle/caches/transforms-2/files-2.1/2bf5e91b570e18e57e33e59bafc2db5b/jetified-play-services-base-17.0.0/res/values-nb/values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "/mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/google_maps_flutter/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml",
+            "outputFile": "/mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/google_maps_flutter/intermediates/res/merged/debug/values-nb/values-nb.xml",
             "map": [
                 {
                     "source": "/home/cosmin/.gradle/caches/transforms-2/files-2.1/2bf5e91b570e18e57e33e59bafc2db5b/jetified-play-services-base-17.0.0/res/values-nb/values.xml",

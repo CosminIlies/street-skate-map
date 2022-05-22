@@ -12,14 +12,14 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-15-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
-15-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-78
+15-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
+15-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-78
 16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-16-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-79
-16-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-76
+16-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-79
+16-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-76
 17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 17-->[com.google.firebase:firebase-auth:21.0.1] /home/cosmin/.gradle/caches/transforms-2/files-2.1/a019e4e63ad7a70d0f2aebf4e86fe327/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
 17-->[com.google.firebase:firebase-auth:21.0.1] /home/cosmin/.gradle/caches/transforms-2/files-2.1/a019e4e63ad7a70d0f2aebf4e86fe327/jetified-firebase-auth-21.0.1/AndroidManifest.xml:24:22-76
@@ -86,37 +86,37 @@
 68            android:value="2" />
 69
 70        <service
-70-->[:firebase_auth] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+70-->[:firebase_auth] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
 71            android:name="com.google.firebase.components.ComponentDiscoveryService"
-71-->[:firebase_auth] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+71-->[:firebase_auth] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
 72            android:directBootAware="true"
 72-->[com.google.firebase:firebase-common:20.0.0] /home/cosmin/.gradle/caches/transforms-2/files-2.1/e9bee4f77b660f6ff89d0b5e41260363/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
 73            android:exported="false" >
 73-->[com.google.firebase:firebase-analytics-ktx:20.1.0] /home/cosmin/.gradle/caches/transforms-2/files-2.1/dda63626cb9878650a3b211527413d16/jetified-firebase-analytics-ktx-20.1.0/AndroidManifest.xml:10:13-37
 74            <meta-data
-74-->[:firebase_auth] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+74-->[:firebase_auth] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 75                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-75-->[:firebase_auth] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+75-->[:firebase_auth] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
 76                android:value="com.google.firebase.components.ComponentRegistrar" />
-76-->[:firebase_auth] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+76-->[:firebase_auth] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 77            <meta-data
-77-->[:firebase_storage] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+77-->[:firebase_storage] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 78                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
-78-->[:firebase_storage] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
+78-->[:firebase_storage] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
 79                android:value="com.google.firebase.components.ComponentRegistrar" />
-79-->[:firebase_storage] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+79-->[:firebase_storage] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 80            <meta-data
-80-->[:cloud_firestore] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+80-->[:cloud_firestore] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 81                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-81-->[:cloud_firestore] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-134
+81-->[:cloud_firestore] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-134
 82                android:value="com.google.firebase.components.ComponentRegistrar" />
-82-->[:cloud_firestore] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+82-->[:cloud_firestore] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 83            <meta-data
-83-->[:firebase_core] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+83-->[:firebase_core] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 84                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-84-->[:firebase_core] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+84-->[:firebase_core] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
 85                android:value="com.google.firebase.components.ComponentRegistrar" />
-85-->[:firebase_core] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+85-->[:firebase_core] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 86            <meta-data
 86-->[com.google.firebase:firebase-analytics-ktx:20.1.0] /home/cosmin/.gradle/caches/transforms-2/files-2.1/dda63626cb9878650a3b211527413d16/jetified-firebase-analytics-ktx-20.1.0/AndroidManifest.xml:11:13-13:85
 87                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
@@ -162,33 +162,33 @@
 107        </service>
 108
 109        <provider
-109-->[:image_picker] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-16:20
+109-->[:image_picker] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-16:20
 110            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-110-->[:image_picker] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-82
+110-->[:image_picker] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-82
 111            android:authorities="com.skate_app.skate_spots_app.flutter.image_provider"
-111-->[:image_picker] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-74
+111-->[:image_picker] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-74
 112            android:exported="false"
-112-->[:image_picker] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-37
+112-->[:image_picker] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-37
 113            android:grantUriPermissions="true" >
-113-->[:image_picker] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-47
+113-->[:image_picker] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-47
 114            <meta-data
-114-->[:image_picker] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:75
+114-->[:image_picker] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:75
 115                android:name="android.support.FILE_PROVIDER_PATHS"
-115-->[:image_picker] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
+115-->[:image_picker] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
 116                android:resource="@xml/flutter_image_picker_file_paths" />
-116-->[:image_picker] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-72
+116-->[:image_picker] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-72
 117        </provider>
 118
 119        <service
-119-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-15:56
+119-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-15:56
 120            android:name="com.lyokone.location.FlutterLocationService"
-120-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-71
+120-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-71
 121            android:enabled="true"
-121-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-35
+121-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-35
 122            android:exported="false"
-122-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+122-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
 123            android:foregroundServiceType="location" />
-123-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-53
+123-->[:location] /mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-53
 124
 125        <uses-library
 125-->[androidx.window:window:1.0.0-beta04] /home/cosmin/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/mnt/disk2/Projects/Flutter/skateSpotsApp/skate_spots_app/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/mnt/disk2/Projects/Flutter/skateSpotsApp/street-skate-map/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
